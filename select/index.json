@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Please Don't Save Her",
+  "base_artist": "YourBoySponge",
+  "createdAt": "2026-04-05T18:52:58.118787Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Please Don't Save Her",
+      "artist": "YourBoySponge",
+      "has_synced": true,
+      "path": "select/01_Please_Don't_Save_Her_YourBoySponge.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Please Don't Save Her (feat. Tutweezy)",
+      "artist": "YourBoySponge",
+      "has_synced": true,
+      "path": "select/02_Please_Don't_Save_Her_(feat._Tutweezy)_YourBoySponge.lrc"
+    }
+  ]
+}
